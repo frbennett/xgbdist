@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: xgboost_distribution
+Version: 0.2
+Summary: Python implementation RS-HDMR
+Author: Frederick Bennett
+Author-email: frederick.bennett@des.qld.gov.au
+Keywords: sobol sensitivity analysis
+Requires-Dist: xgboost>=3.0.0
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: summary
